@@ -1,0 +1,6 @@
+Negative Physics by AUsaf Ahmed
+
+Version 0.0.1
+-choppy looking animation, gravity value too high
+-ball can "sink" through floor
+
